@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://saas-admin.sit.powerbiz.asia/",
+  "env": {
+    "userEmail": "rahmi@powercommerce.asia",
+    "userPassword": "Qwerty12"
+  },
+  "projectId": "7yqt2x"
+  
+}
